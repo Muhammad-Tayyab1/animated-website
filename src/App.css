@@ -1,0 +1,35 @@
+.head{
+  margin: 0 auto;
+}
+.bbody{
+  margin-top: 16px auto;
+}
+.components{
+ display: flex;
+ justify-content: center;
+
+
+}
+.home{
+  margin-left: 5px auto;
+  padding-left: 300px;
+ 
+}
+.about{
+  margin-top: 85px;
+  color: linear-gradient(to right top, #ae5688, #a75b99, #9c61aa, #8a69ba, #7272c8, #5d80d6, #3f8ee0, #009be7, #00b0ed, #00c3eb, #00d5e4, #47e5db);
+
+}
+.btn{
+  margin-top: 50px;
+}
+.NavBody{
+  background-color: linear-gradient(to right top, #ae5688, #a75b99, #9c61aa, #8a69ba, #7272c8, #5d80d6, #3f8ee0, #009be7, #00b0ed, #00c3eb, #00d5e4, #47e5db);
+margin-top: 40px;
+}
+.Nav{
+  margin-left: 30px;
+}
+.project{
+  background-color: linear-gradient(to right top, #ae5688, #a75b99, #9c61aa, #8a69ba, #7272c8, #5d80d6, #3f8ee0, #009be7, #00b0ed, #00c3eb, #00d5e4, #47e5db);
+}
