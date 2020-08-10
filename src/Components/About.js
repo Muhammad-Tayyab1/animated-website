@@ -91,7 +91,7 @@ const About = () => {
            
           <IconButton >
           <Badge  color="secondary">
-            <a href="https://github.com/Muhammad-Tayyab1"><GitHubIcon/></a>
+            <a href="https://github.com/Muhammad-Tayyab1/animated-website"><GitHubIcon/></a>
           </Badge>
         </IconButton>
         <IconButton >
